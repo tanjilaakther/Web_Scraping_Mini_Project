@@ -1,0 +1,38 @@
+Web-scraping API with Python Scrapy Splash ScrapyRT Flask
+
+•	Development Setup
+o	Check for python installation
+	python –version
+Python 3.8.5
+If python is not installed, install python according to the instruction:
+https://docs.python.org/3/using/windows.html
+
+•	Install a virtual environment and activate it on bash, for other shells select the corresponding venv/bin/activate.* script. 
+o	python3 -m venv venv
+source venv/bin/activate
+
+•	Install the requirements
+pip install -r requirements.txt
+
+•	Setup Docker
+o	Download Docker desktop: https://www.docker.com/products/docker-desktop
+o	Make sure docker desktop is running when you want to run docker on your machine.
+[ Now go through the following commands for using docker compose:
+
+On the terminal, build the docker image with the command as follow:
+docker-compose build
+
+On the terminal, run the docker with the command as follow:
+docker-compose up
+
+To turn down docker run the command as follow:
+docker-compose down
+ ]
+
+•	To run the API
+Run the following commands in separate terminal:
+o	docker run -it -p 8050:8050 scrapinghub/splash
+o	python source/web/app.py
+o	Enter the source directory from terminal; run command:
+scrapyrt
+•	Run on local server: localhost:5000

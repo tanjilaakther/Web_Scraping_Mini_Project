@@ -1,0 +1,70 @@
+Spider Names
+********************************
+********************************
+
+-----------------------
+-----------------------
+Schneider Electric
+-----------------------
+-----------------------
+
+Circuit Breaker and Switches
+---------------------------------------
+---------------------------------------
+Molded Case Circuit Breakers (mccbs)
+---------------------------------------
+se_mccbs_comPact_NS
+se_mccbs_comPact_NSXM
+se_mccbs_comPact_NSX
+se_mccbs_comPact_NSX_dc
+
+Switch-disconnectors and fuses (sdf)
+-------------------------------------
+se_sdf_FuPact
+se_sdf_masterPact_sd
+se_sdf_comPact_NSX_NA
+se_sdf_comPact_insinv
+se_sdf_comPact_NSXM_NA
+se_sdf_comPact_NS_NA
+
+
+Contactors and Protection Relays
+----------------------------------
+----------------------------------
+
+Digitized Motor Starters (dms)
+-------------------------------
+se_dms_TeSys_island
+se_dms_Tesys_T
+se_dms_TeSys_U
+
+Motor Protection Circuit-Breakers (mpcb)
+-----------------------------------------
+se_mpcb_TeSys_GV2
+se_mpcb_TeSys_GV3
+se_mpcb_TeSys_GV4
+se_mpcb_TeSys_GV5_GV6
+
+Industrial Contactors (indsC)
+-------------------------
+se_indsC_TeSys_ControlRelays
+se_indsC_TeSys_D
+se_indsC_TeSys_F
+se_indsC_TeSys_K
+se_indsC_TeSys_B
+
+
+-----------------------
+-----------------------
+ABB
+-----------------------
+-----------------------
+
+Miniature Circuit Breaker (mcb)
+--------------------------
+
+abb_mcb_sn201-range
+abb_mcb_s200-mt-range
+abb_mcb_s200-range
+abb_mcb_su200-range
+

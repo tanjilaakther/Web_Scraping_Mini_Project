@@ -1,0 +1,36 @@
+Test URLs
+-------------
+ABB Global
+-----------
+-----------
+Select Specific product for link from Product from Products and Documents:
+
+https://new.abb.com/low-voltage/products/system-pro-m/miniature-circuit-breakers/sn201-range
+https://new.abb.com/low-voltage/products/system-pro-m/miniature-circuit-breakers/s200-mt-range
+https://new.abb.com/low-voltage/products/system-pro-m/miniature-circuit-breakers/s200-range
+https://new.abb.com/low-voltage/products/system-pro-m/miniature-circuit-breakers/su200-range
+
+Schneider Electric
+--------------------
+--------------------
+https://www.se.com/ww/en/product-range/1887-compact-nsx/?parent-subcategory-id=4230&filter=business-4-low-voltage-products-and-systems
+https://www.se.com/ww/en/product-range/1002-compact-ns/?parent-subcategory-id=4230&filter=business-4-low-voltage-products-and-systems
+https://www.se.com/ww/en/product-range/63429-compact-nsxm/?parent-subcategory-id=4230&filter=business-4-low-voltage-products-and-systems
+https://www.se.com/ww/en/product-range/61297-compact-nsx-for-direct-current/?parent-subcategory-id=4230&filter=business-4-low-voltage-products-and-systems
+https://www.se.com/ww/en/product-range/1010-fupact/?parent-subcategory-id=4210&filter=business-4-low-voltage-products-and-systems
+https://www.se.com/ww/en/product-range/1566-masterpact-switch-disconnectors/?parent-subcategory-id=4210&filter=business-4-low-voltage-products-and-systems
+https://www.se.com/ww/en/product-range/2727-compact-nsx-na/?parent-subcategory-id=4210&filter=business-4-low-voltage-products-and-systems
+https://www.se.com/ww/en/product-range/62074-compact--ins-inv/?parent-subcategory-id=4210&filter=business-4-low-voltage-products-and-systems
+https://www.se.com/ww/en/product-range/64338-compact-nsxm-na/?parent-subcategory-id=4210&filter=business-4-low-voltage-products-and-systems
+https://www.se.com/ww/en/product-range/996-compact-ns-na/?parent-subcategory-id=4210&filter=business-4-low-voltage-products-and-systems
+https://www.se.com/ww/en/product-range/65746-tesys-island/?parent-subcategory-id=1550&filter=business-4-low-voltage-products-and-systems
+https://www.se.com/ww/en/product-range/1508-tesys-t/?parent-subcategory-id=1550&filter=business-4-low-voltage-products-and-systems
+https://www.se.com/ww/en/product-range/682-tesys-u/?parent-subcategory-id=1550&filter=business-4-low-voltage-products-and-systems
+https://www.se.com/ww/en/product-range/684-tesys-gv2/?parent-subcategory-id=38342932&filter=business-4-low-voltage-products-and-systems
+https://www.se.com/ww/en/product-range/1446-tesys-gv3/?parent-subcategory-id=38342932&filter=business-4-low-voltage-products-and-systems
+https://www.se.com/ww/en/product-range/63428-tesys-gv4/?parent-subcategory-id=38342932&filter=business-4-low-voltage-products-and-systems
+https://www.se.com/ww/en/product-range/66038-tesys-gv5%2C-gv6/?parent-subcategory-id=38342932&filter=business-4-low-voltage-products-and-systems
+https://www.se.com/ww/en/product-range/664-tesys-d/?parent-subcategory-id=1510&filter=business-4-low-voltage-products-and-systems
+https://www.se.com/ww/en/product-range/665-tesys-f/?parent-subcategory-id=1510&filter=business-4-low-voltage-products-and-systems
+https://www.se.com/ww/en/product-range/666-tesys-k/?parent-subcategory-id=1510&filter=business-4-low-voltage-products-and-systems
+https://www.se.com/ww/en/product-range/667-tesys-b/?parent-subcategory-id=1510&filter=business-4-low-voltage-products-and-systems
